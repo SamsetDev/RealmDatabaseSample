@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">RealMDatabaseExample</string>
+
+    <array name="menu">
+        <item>Update</item>
+        <item>Delete</item>
+    </array>
 </resources>
